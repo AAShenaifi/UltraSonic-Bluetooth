@@ -6,10 +6,15 @@ LED=ليد , Ultrasonic = فوق الصوتية
 
 (Fritzing )صممت الدائرة ببرنامج
 
+![Circuit 1](https://user-images.githubusercontent.com/85587466/125715708-996b2cf7-7336-40a7-9537-27aa4bb3734d.png)
+
+
 تم أقتباس الكود البرمجي وعمل التعديلات اللازمة من:
  الأخ عبدالرحمن العواجي جزاه الله خير جزاء 
 الصفحة : https://github.com/eadh21/Ultrasonic-sensor-with-two-arduino-only
 --------------------------------------------------------------------------
 ومن صفحة ويب ومقطع : https://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-bluetooth-module-master-slave-commands/ حيث تم شرح البلوتوث 
 --------------------------------------------------------------------------
-وتم التعاون والمساعدة منقبل ألاخ Gentle7709
+https://github.com/Gentle7709 وتم التعاون والمساعدة من قبل ألاخ 
+عبر مكالمة فيديو مشتركة ومشاركة الشاشة
+
