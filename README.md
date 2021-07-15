@@ -11,3 +11,5 @@ LED=ليد , Ultrasonic = فوق الصوتية
 الصفحة : https://github.com/eadh21/Ultrasonic-sensor-with-two-arduino-only
 --------------------------------------------------------------------------
 ومن صفحة ويب ومقطع : https://howtomechatronics.com/tutorials/arduino/how-to-configure-pair-two-hc-05-bluetooth-module-master-slave-commands/ حيث تم شرح البلوتوث 
+--------------------------------------------------------------------------
+وتم التعاون والمساعدة منقبل ألاخ Gentle7709
